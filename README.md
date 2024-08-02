@@ -32,7 +32,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
   <img width="24" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="60" alt="canva logo"  />
-  <img width="24" />f
+  <img width="24" />
 </div>
 
 ###
