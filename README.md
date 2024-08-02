@@ -29,9 +29,13 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
   <img width="24" />
+  <img src="https://cdn.simpleicons.org/github/F05032" height="60" alt="git logo"  />
+  <img width="24" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
   <img width="24" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="60" alt="canva logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="60" alt="figma logo"  />
   <img width="24" />
 </div>
 
