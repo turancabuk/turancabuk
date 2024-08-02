@@ -2,12 +2,17 @@
 👋 Hi there, I'm Turan<br>🔭 I’m currently working IOS Development<br>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=turancabuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=turancabuk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=turancabuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ## 🌐 Socials: 
 <div align="left">
   <a href="https://www.linkedin.com/in/turancabuk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  
   <a href="https://medium.com/@turancabuk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
@@ -36,11 +41,6 @@
 </div>
 
 ###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=turancabuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=turancabuk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=turancabuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
